@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e888be4-66e9-4392-b00f-3b1ec1273d9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="377" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ngzOpyHsY29MhcoO7znBJFTFII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oving4/titanic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\augbi\PycharmProjects\MetIAI\oving1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\augbi\PycharmProjects\MetIAI\oving4\titanic" />
+      <recent name="C:\Users\augbi\PycharmProjects\MetIAI\oving4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.oppgave1_FERDIG">
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MetIAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oving4/titanic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oving4/titanic/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decision_tree2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MetIAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oving4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oving4/decision_tree2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oppgave1_FERDIG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MetIAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oving2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oving2/oppgave1_FERDIG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stored" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MetIAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oving4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oving4/stored.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MetIAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oving4/titanic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oving4/titanic/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.oppgave1_FERDIG" />
+        <item itemvalue="Python.decision_tree2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.stored" />
+        <item itemvalue="Python.dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e888be4-66e9-4392-b00f-3b1ec1273d9d" name="Default Changelist" comment="" />
+      <created>1611826493192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611826493192</updated>
+      <workItem from="1611826495909" duration="16955000" />
+      <workItem from="1611918699827" duration="94000" />
+      <workItem from="1611941430180" duration="28019000" />
+      <workItem from="1612257529308" duration="5445000" />
+      <workItem from="1612364601628" duration="1304000" />
+      <workItem from="1612893644829" duration="39526000" />
+      <workItem from="1613378037809" duration="11624000" />
+      <workItem from="1613419668899" duration="19628000" />
+      <workItem from="1613570836744" duration="237000" />
+      <workItem from="1613655102406" duration="879000" />
+      <workItem from="1615367587660" duration="43189000" />
+      <workItem from="1615638158788" duration="5709000" />
+      <workItem from="1615798034894" duration="44552000" />
+      <workItem from="1616508214163" duration="28000" />
+      <workItem from="1617000536691" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2675" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615826476439">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2675" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1615826476439" />
+    <state x="770" y="335" key="FileChooserDialogImpl" timestamp="1613341668191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="770" y="335" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613341668191" />
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876697" />
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state width="1506" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615838804056" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1616008729301">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876696" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729301" />
+    <state width="1506" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615838804056" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1616008729301">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876694" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729301" />
+    <state width="1506" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615838804056" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876697" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state width="1506" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615838804056" />
+    <state width="1493" height="291" key="GridCell.Tab.1.bottom" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876698" />
+    <state width="1493" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state width="1493" height="291" key="GridCell.Tab.1.center" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876698" />
+    <state width="1493" height="291" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state width="1493" height="291" key="GridCell.Tab.1.left" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876698" />
+    <state width="1493" height="291" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state width="1493" height="291" key="GridCell.Tab.1.right" timestamp="1616008729302">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1615985876698" />
+    <state width="1493" height="291" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616008729302" />
+    <state x="2607" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1616006102688">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2607" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1616006102688" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oving4/titanic/dataset.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oving4/titanic/test.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="variable_name" />
+        <watch expression="root" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MetIAI$test.coverage" NAME="test Coverage Results" MODIFIED="1615974351059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving4/titanic" />
+    <SUITE FILE_PATH="coverage/MetIAI$stored.coverage" NAME="stored Coverage Results" MODIFIED="1615838255119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving4" />
+    <SUITE FILE_PATH="coverage/MetIAI$KUUK.coverage" NAME="KUUK Coverage Results" MODIFIED="1612092360323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetIAI$oppgave1.coverage" NAME="oppgave1 Coverage Results" MODIFIED="1613423608182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving2" />
+    <SUITE FILE_PATH="coverage/MetIAI$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1615827966916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving4/titanic" />
+    <SUITE FILE_PATH="coverage/MetIAI$oppgave1_versjon2.coverage" NAME="oppgave1_versjon2 Coverage Results" MODIFIED="1613504978264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving2" />
+    <SUITE FILE_PATH="coverage/MetIAI$opg1.coverage" NAME="opg1 Coverage Results" MODIFIED="1613505553399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving2" />
+    <SUITE FILE_PATH="coverage/MetIAI$Exercise_1_2_.coverage" NAME="Exercise-1(2) Coverage Results" MODIFIED="1612301336604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetIAI$oving1_metoder_AI__1_.coverage" NAME="oving1_metoder_AI (1) Coverage Results" MODIFIED="1612364642016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetIAI$oppgave1_FERDIG__1_.coverage" NAME="oppgave1_FERDIG (1) Coverage Results" MODIFIED="1613570869449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving2" />
+    <SUITE FILE_PATH="coverage/MetIAI$oppgave1_FERDIG.coverage" NAME="oppgave1_FERDIG Coverage Results" MODIFIED="1617000657673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving2" />
+    <SUITE FILE_PATH="coverage/MetIAI$decision_tree.coverage" NAME="decision_tree Coverage Results" MODIFIED="1615382488360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving4" />
+    <SUITE FILE_PATH="coverage/MetIAI$decision_tree2.coverage" NAME="decision_tree2 Coverage Results" MODIFIED="1616006303176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oving4" />
+    <SUITE FILE_PATH="coverage/MetIAI$fgf.coverage" NAME="fgf Coverage Results" MODIFIED="1613420066573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
